@@ -28,7 +28,7 @@ dependencies:
     - scikit-learn
     - xgboost
     - lightgbm
-    - imbalanced-learn
+    - imbalanced-learnj
     - pillow
     - opencv-python
     - tqdm
